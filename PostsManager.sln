@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostsManager.PostsApi", "PostsManager.PostsApi\PostsManager.PostsApi.csproj", "{BC7A0E8D-24C7-42B2-897A-F8B6AA031BD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostsManager.PostsApi", "PostsManager.PostsApi\PostsManager.PostsApi.csproj", "{BC7A0E8D-24C7-42B2-897A-F8B6AA031BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostsManager.LogsApi", "PostsManager.LogsApi\PostsManager.LogsApi.csproj", "{93F8011D-F078-4226-8BA9-DF42D02D0D57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BC7A0E8D-24C7-42B2-897A-F8B6AA031BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC7A0E8D-24C7-42B2-897A-F8B6AA031BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC7A0E8D-24C7-42B2-897A-F8B6AA031BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F8011D-F078-4226-8BA9-DF42D02D0D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F8011D-F078-4226-8BA9-DF42D02D0D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F8011D-F078-4226-8BA9-DF42D02D0D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F8011D-F078-4226-8BA9-DF42D02D0D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
